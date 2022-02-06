@@ -12,5 +12,6 @@
 <img src="https://avatars.githubusercontent.com/u/44063598?s=400&u=6a633bedcb70ba5dd4225c88a8e62d629de9f6b9&v=4" width="150">
 Jafet Alejandro Fernandez Martinez 
 
-
+<img src="https://avatars.githubusercontent.com/u/56088634?s=96&v=4" width="150">
+Luis Guillermo Toraya Novelo 
 
